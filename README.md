@@ -1,5 +1,5 @@
 # power
-power analysis of ccj literature
+power analysis of criminology literature
 
 there are two files that are of interest here:
 
