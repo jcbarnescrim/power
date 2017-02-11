@@ -1,361 +1,361 @@
 "Study
-No"	Authors	Year	Outcome(s)	Predictor(s)	"Micro=0
-Macro=1"	d	r	z(r) 	Phi	Hedges g	"Odds Ratio
-(OR)"	Logged OR	Risk Ratio	"k
-(# of studies)"	total n	average n	notes
-1	Braga et al 	2014	Crime	Hot Spots Policing	1	0.184								16			
-2	Braga & Weisburd	2012	Crime	Focused Deterrence	1	0.604								10			
-3	Braga, Welsh, & Schnell	2015	Crime	Policing Disorder	1	0.21								28			
-4	Welsh & Farrington 	2009	Crime	CCTV	1						1.19			41			
-5	Barnes et al	2014	Aggression	School-based CBT	0	-0.23								25	31080		
-6	Cox et al	1995	Delinquency	Alternative Education/Schools	0												
-6			Delinquency	Comparison	0		0.03							9	1542		
-6			Delinquency	Pre/post	0		0.23							4	262		
-7	Dowden & Andrews	2003	Offender Outcomes	Family Intevention	0				0.21					38			
-8	Gobeil et al	2016	Recidivism	Interventions for Women	0						1.35			38	21728		
-9	Goncalves et al 	2014	Prison Infractions	Predictors of Inmate Adjustment	0												
-9			Prison Infractions	Age	0		-0.11							26	266020		
-9			Prison Infractions	Education	0		-0.03							15	252353		
-9			Prison Infractions	Father	0		0.02							5	11873		
-9			Prison Infractions	Foreigner	0		0.02							4	84644		
-9			Prison Infractions	Social Support	0		-0.06							6	11318		
-9			Prison Infractions	Married	0		-0.02							10	113438		
-9			Prison Infractions	Black	0		0.01							17	147904		
-9			Prison Infractions	White	0		-0.02							6	22831		
-9			Prison Infractions	Latino	0		-0.01							13	129456		
-9			Prison Infractions	Aggressiveness	0		0.2							12	2365		
-9			Prison Infractions	Antisocial Personality	0		0.17							14	3865		
-9			Prison Infractions	Impulsivity	0		0.19							6	867		
-9			Prison Infractions	Prior Mental Treatment	0		0.02							5	11413		
-9			Prison Infractions	Substance Abuse	0		0.07							11	24144		
-9			Prison Infractions	Victimization History	0		0.03							4	12958		
-9			Prison Infractions	Age at First Arrest	0		-0.07							4	2405		
-9			Prison Infractions	Crime: Drug	0		-0.02							7	30095		
-9			Prison Infractions	Crime: Property	0		0.05							5	23532		
-9			Prison Infractions	Crime: Violent	0		0.01							14	347336		
-9			Prison Infractions	Criminal History	0		0.08							16	197448		
-9			Prison Infractions	Gang Involvement	0		0.04							13	149932		
-9			Prison Infractions	Instititutional Risk	0		0.13							12	37063		
-9			Prison Infractions	Prior Incarceration	0		0.05							16	134705		
-9			Prison Infractions	Prior Infractions	0		0.21							6	28751		
-9			Prison Infractions	Sentence Length	0		-0.02							13	170996		
-9			Prison Infractions	Time Served	0		0.04							10	144859		
-9			Prison Infractions	Violent History	0		0.04							7	183133		
-9			Prison Infractions	Crowding	0		-0.03							8	2738		
-9			Prison Infractions	Gang Activity	0		0.17							7	639		
-9			Prison Infractions	Maximum Security	0		0.16							9	2476		
-9			Prison Infractions	Population Size	0		0.21							6	1653		
-9			Prison Infractions	Ratio Staff-inmates	0		-0.01							8	2504		
-9			Prison Infractions	Proportion Working Inmates	0		-0.06							4	1153		
-9			Prison Infractions	Years in Operation	0		0.03							4	1216		
-10	Helmond et al	2015	Externalizing Behavior	Distortions/Interventions	0												
-10			Externalizing Behavior	Cognitive Distortions	0	0.7								53	18544		
-10			Externalizing Behavior	Interventions	0	0.27								18	2037		
-11	Helmus & Thornton	2015	Sexual Recidivism	Static-99/2002 Items	0												
-11			Sexual Recidivism	Age	0								0.98	19	7461		
-11			Sexual Recidivism	Static-99 Age	0								1.31	22	8053		
-11			Sexual Recidivism	Static-2002 Age	0								1.3	8	2950		
-11			Sexual Recidivism	Static-99R/2002 Revised Age	0								1.28	19	7461		
-11			Sexual Recidivism	Ever Lived with Lover	0								1.7	22	8004		
-11			Sexual Recidivism	Index Nonsexual Violence	0								1.22	22	8053		
-11			Sexual Recidivism	Prior Nonsexual Violence	0								1.55	22	8053		
-11			Sexual Recidivism	Prior Sex Offenses	0								1.66	22	8053		
-11			Sexual Recidivism	Prior Sentencing Dates	0								1.84	22	8053		
-11			Sexual Recidivism	Any Noncontact Sex Offense	0								2.47	22	8053		
-11			Sexual Recidivism	Any Unrelated Victim	0								2.29	22	8053		
-11			Sexual Recidivism	Any Stranger Victim	0								2.06	22	8053		
-11			Sexual Recidivism	Any Male Victim	0								1.43	22	8053		
-11			Sexual Recidivism	Prior Sex Sent. Dates	0								1.67	8	2951		
-11			Sexual Recidivism	Juvenile Sex Arrest	0								1.67	8	2951		
-11			Sexual Recidivism	High Rate of Sex Offenses	0								2.92	8	2951		
-11			Sexual Recidivism	2+ Victims <12, One Unrelated	0								1.42	8	2944		
-11			Sexual Recidivism	Prior Sentencing Occasions	0								1.55	8	2951		
-11			Sexual Recidivism	Breach Conditional Release	0								2.27	8	2947		
-11			Sexual Recidivism	Years Free Prior to Index	0								2.35	8	2949		
-11			Sexual Recidivism	Prior Nonsexual Violence	0								1.55	8	2951		
-12	Hoogsteder et al	2015	Aggression	Cognitive Behavioral Treatment	0	1.139								6	164		
-13	Koehler et al	2014	Recidivism	European Drug Treatment	0	0.47								15	3953		
-14	Lipsey 	2009	Recidivism	Interventions (Juveniles)	0				0.062					361			
-15	Lytle 	2014	Arrest	Suspect Characteristics	0												
-15			Arrest	Black	0							0.33		42		77005.1	
-15			Arrest	Male	0							0.4		38		84554.5	
-15			Arrest	Age	0							-0.001		35		60809.79	
-15			Arrest	Hispanic	0							0.22		15		190586.53	
-16	Piquero et al	2009	Antisocial Behavior	Family/Parent Training	0	0.35								55		137	
-17	Prendergast et al	2013	Criminal Behavior	Risk, Needs, Responsivity Principles	0					0.06				51			
-18	Schwalbe et al	2012	Delinquency/Recidivism	Juvenile Diversion Program	0						0.83			28	19301	585	
-19	Smith, Cullen, & Letessa	2009	Recidivism	LSI-R (Females)	0		0.34							25	14737		
-20	Tolan et al	2014	Delinquency	Mentoring Program Participation	0					0.21				25			
-21	Walters	2006	Recidivism	Risk Assessment Instruments	0												
-21			Recidivism	Risk-Appraisal Instrument	0		0.3							22	3533		
-21			Recidivism	Self-Report Risk Appraisal Instrument	0		0.23							22	3533		
-22	Wilson, Mitchell, & MacKenzie	2006	Recidivism	Drug Court Participation	0						1.66			50	32652		
-23	Wilson, Gallegher, & MacKenzie	2000	Recidivism	"Corrections-based Education, 
-Vocation, and Work Programs"	0												
-23			Recidivism	Adult Basic Education	0							0.41		33			
-23			Recidivism	Postsecondary Education	0							0.41		33			
-23			Recidivism	Vocational Training	0							0.27		33			
-23			Recidivism	Correctional Work	0							-0.06		33			
-24	Wilson 	2014	Recidivism	"Antisocial Personality Disorder
-Treatment"	0												
-24			Recidivism	Controlled Trials	0						0.51			3	146		
-24			Recidivism	Uncontrolled Trials	0						0.93			5	611		
-25	Wilson & Gutierrez 	2014	Recidivism	Level of Service Inventory	0												
-25			Recidivism	Criminal History	0	0.57								11	20294		
-25			Recidivism	Employment/Education	0	0.44								11	20294		
-25			Recidivism	Family/Marital	0	0.24								11	20294		
-25			Recidivism	Leisure/Recreation	0	0.34								11	20287		
-25			Recidivism	Companions	0	0.39								11	20294		
-25			Recidivism	Alcohol/Drugs	0	0.42								11	20294		
-25			Recidivism	Procriminal Attitude	0	0.39								11	20293		
-25			Recidivism	Antisocial Pattern	0	0.6								8	6335		
-25			Recidivism	LS Scales	0	0.62								13	21058		
-25			Recidivism	LSI-OR	0	0.76								7	6205		
-25			Recidivism	LSI-R	0	0.29								3	14051		
-26	Wood & Mayo-Wilson	2012	Behavior	Mentoring Program Participation	0					0.03				4	4347		
-27	Baier & Wright	2001	Criminal Behavior	Religion	0		-0.12							79	245822		
-28	Bennett, Holloway, & Farrington	2008	Criminal Behavior	Drug Misuse	0						2.79			30	66070		
-29	Blais, Solodukhin, & Forth	2014	Violence	Psychopathy	0												
-29			Instrumental Violence	Psychopathy	0		0.36							53	8542		
-29			Reactive Violence	Psychopathy	0		0.35							40	7394		
-30	Bonta, Blais, & Wilson	2014	Recidivism	"Risk Factors for Mentally
-Disordered Offenders"	0												
-30			Recidivism	Criminal History	0	0.34								37	8312		
-30			Recidivism	Procriminal Attitude	0	0.37								4	976		
-30			Recidivism	Antisocial Personality Pattern	0	0.41								30	5578		
-30			Recidivism	Education/Employment	0	0.41								10	1521		
-30			Recidivism	Family/Marital	0	0.38								11	2205		
-30			Recidivism	Family Problems	0	0.33								7	1579		
-30			Recidivism	Substance Abuse	0	0.51								22	4491		
-30			Recidivism	Psychosis	0	0.03								17	3303		
-30			Recidivism	Schizophrenia	0	0.01								9	1849		
-30			Recidivism	Mood Disorder	0	-0.16								10	2341		
-30			Recidivism	Intelligence	0	0.15								7	2409		
-30			Recidivism	Prior Admissions	0	0.12								10	2660		
-30			Recidivism	Length of Hospitalization	0	-0.11								11	2352		
-30			Recidivism	Psychiatric Treatment History	0	-0.23								26	4142		
-30			Recidivism	Non-/Mentally Disordered	0	-0.09								27	9504		
-30			Recidivism	NGRI vs. Non-mentally Disordered	0	0.01								7	1838		
-30			Recidivism	Personality Disorders	0	0.44								9	1765		
-30			Recidivism	Antisocial Personality or Psychopathy	0	0.54								16	3742		
-31	Cottle, Lee, & Heilbrun	2001	Recidivism	Juvenile Predictors	0												
-31			Recidivism	Age at First Commitment	0			-0.346						3	720		
-31			Recidivism	Age at First Contact Law	0			-0.341						8	1225		
-31			Recidivism	Nonsevere Pathology	0			0.305						7	953		
-31			Recidivism	Family Problems	0			0.277						5	1054		
-31			Recidivism	Conduct Problems	0			0.255						7	1667		
-31			Recidivism	Effective Use of Leisure Time	0			-0.233						2	588		
-31			Recidivism	Delinquent Peers	0			0.204						7	1525		
-31			Recidivism	Length of First Incarceration	0			0.187						3	641		
-31			Recidivism	Number of Out-home Placements	0			0.184						2	424		
-31			Recidivism	Number of Prior Commitments	0			0.174						3	585		
-31			Recidivism	Type of Crime	0			0.159						7	10267		
-31			Recidivism	Std. Achievement Score	0			-0.153						3	506		
-31			Recidivism	Substance Abuse	0			0.149						6	1111		
-31			Recidivism	IQ	0			-0.142						5	1756		
-31			Recidivism	History of Special Education	0			0.13						2	432		
-31			Recidivism	Risk Assessment Instruments	0			0.118						6	10353		
-31			Recidivism	History of Abuse	0			0.112						5	9949		
-31			Recidivism	Male	0			0.111						3	9671		
-31			Recidivism	Verbal IQ	0			-0.111						4	716		
-31			Recidivism	Single Parent	0			0.07						5	10501		
-31			Recidivism	Severe Pathology	0			0.069						2	346		
-31			Recidivism	Race Minority	0			0.067						6	10121		
-31			Recidivism	SES	0			0.065						3	10363		
-31			Recidivism	Number of Prior Arrests	0			0.058						7	10155		
-31			Recidivism	School Attendance	0			-0.048						2	299		
-31			Recidivism	Parent Pathology	0			0.047						3	529		
-31			Recidivism	Performance IQ	0			-0.031						2	491		
-31			Recidivism	School Report of Achievement	0			-0.028						6	10025		
-31			Recidivism	History of Treatment	0			0.019						2	9366		
-31			Recidivism	Substance Use	0			0.014						2	9366		
-32	Derzon	2010	Antisocial Behavior	Family Features	0		0.15							119		700	
-33	Jones, Miller, & Lynam	2011	Antisocial Behavior	Five-factor Model of Personality	0												
-33			Antisocial Behavior	Neuroticism	0			0.092						29	10187		
-33			Antisocial Behavior	Extraversion	0			-0.014						29	10187		
-33			Antisocial Behavior	Openness	0			0.014						31	10311		
-33			Antisocial Behavior	Agreeableness	0			-0.308						29	10186		
-33			Antisocial Behavior	Conscientiousness	0			-0.234						30	10308		
-34	Joyal et al.	2014	Sex Offending	Neuropsychological Factors	0	0.59								14	1756		
-35	Leschied et al	2008	Criminal Behavior	Childhood Predictors	0	0.29								29	33821		
-36	Miller & Lynam	2001	Antisocial Behavior	Personality	0												
-36			Antisocial Behavior	Neuroticism	0		0.12							14	4584		
-36			Antisocial Behavior	Extraversion	0		0							14	4584		
-36			Antisocial Behavior	Opennes	0		-0.03							14	4584		
-36			Antisocial Behavior	Agreeableness	0		-0.41							15	4673		
-36			Antisocial Behavior	Conscientiousness	0		-0.25							14	4584		
-36			Antisocial Behavior	Psychoticism	0		0.39							35	15339		
-36			Antisocial Behavior	Extraversion	0		0.1							37	15568		
-36			Antisocial Behavior	Neuroticism	0		0.23							34	15678		
-36			Antisocial Behavior	Positive Emotionality	0		0.01							2	1235		
-36			Antisocial Behavior	Negative Emotionality	0		0.26							2	1235		
-36			Antisocial Behavior	Constraint	0		-0.24							2	1235		
-36			Antisocial Behavior	Novelty Seeking	0		0.28							4	742		
-36			Antisocial Behavior	Harm Avoidance	0		-0.03							4	742		
-36			Antisocial Behavior	Reward Dependence	0		-0.07							4	742		
-36			Antisocial Behavior	Persistence	0		-0.02							4	742		
-36			Antisocial Behavior	Self-directedness	0		-0.21							4	742		
-36			Antisocial Behavior	Cooperativeness	0		-0.18							4	742		
-36			Antisocial Behavior	Self-transcendence	0		0.03							4	742		
-37	Nivette	2011	Homicide Rates	Cross-national Predictors	1												
-37			Homicide Rates	Infant Mortality	1		0.196							8		44	
-37			Homicide Rates	Decommodification	1		-0.279							4		44	
-37			Homicide Rates	West	1		-0.108							2		44	
-37			Homicide Rates	East	1		-0.326							2		44	
-37			Homicide Rates	Latin America	1		0.445							2		44	
-37			Homicide Rates	Urbanism	1		-0.103							27		44	
-37			Homicide Rates	Population Density	1		-0.012							12		44	
-37			Homicide Rates	Population Growth	1		0.251							9		44	
-37			Homicide Rates	Population Total	1		-0.024							16		44	
-37			Homicide Rates	Sex Ratio	1		-0.095							15		44	
-37			Homicide Rates	Age > 15	1		0.116							17		44	
-37			Homicide Rates	Age < 15	1		-0.1							8		44	
-37			Homicide Rates	Deterrence	1		0.072							6		44	
-37			Homicide Rates	Income Inequality Ratio	1		0.416							13		44	
-37			Homicide Rates	Income Inequality Index	1		0.224							31		44	
-37			Homicide Rates	Economic Discrimination	1		0.136							6		44	
-37			Homicide Rates	Development Index	1		-0.163							14		44	
-37			Homicide Rates	Economic Development	1		-0.055							37		44	
-37			Homicide Rates	Modernization	1		-0.173							9		44	
-37			Homicide Rates	Female Education	1		0.11							3		44	
-37			Homicide Rates	Literacy	1		0.219							2		44	
-37			Homicide Rates	Democracy Indices	1		-0.012							6		44	
-37			Homicide Rates	Political Rights	1		-0.088							5		44	
-37			Homicide Rates	Household Size	1		0.166							3		44	
-37			Homicide Rates	Female Labor	1		0.223							13		44	
-37			Homicide Rates	Unemployment	1		0.043							4		44	
-37			Homicide Rates	Ethnic Heterogeneity	1		0.163							12		44	
-37			Homicide Rates	Ethnic Homogeneity	1		-0.247							5		44	
-37			Homicide Rates	Divorce	1		0.277							10		44	
-37			Homicide Rates	Socal Support	1		-0.072							15		44	
-38	Ogilvie et al	2014	Criminal Behavior	Attachment	0												
-38			Criminal Behavior	Attachment Security	0	-0.44								9	1091		
-38			Criminal Behavior	Attachment Anxiety	0	0.36								14	1621		
-38			Criminal Behavior	Attachment Avoidance	0	0.55								14	1621		
-39	Ogilvie et al	2011	Antisocial Behavior	Executive Functioning	0	0.53								126	14786		
-40	Portnoy & Farrington	2015	Antisocial Behavior	Resting Heart Rate	0	-0.2								45			
-41	Pratt & Cullen	2000	Criminal Behavior	Self-control	0									21	49,727	2367.952381	
-41			Criminal Behavior	Attitudinal Measure	0			0.223								2368	
-41			Criminal Behavior	Behavioral Measure	0			0.288								2368	
-41			Criminal Behavior	Self-control-Opportunity Interaction	0			0.505								2368	
-42	Pratt & Cullen	2005	Crime	Macro-level Predictors	1									214			
-42			Crime	Strength of Noneconomic Institutions	1			-0.391									
-42			Crime	Firearm Ownership	1			0.332									
-42			Crime	Incarceration Effect	1			-0.227									
-42			Crime	Collective Efficacy	1			-0.277									
-42			Crime	Racial Heterogeneity	1			0.218									
-42			Crime	Religion	1			-0.26									
-42			Crime	Family Disruption	1			0.152									
-42			Crime	Poverty	1			0.234									
-42			Crime	Unsupervised Peer Groups	1			0.251									
-42			Crime	Household Activity Ratio	1			0.149									
-42			Crime	Social Support/Altruism	1			-0.156									
-42			Crime	Inequality	1			0.17									
-42			Crime	Urbanism	1			0.243									
-42			Crime	Residential Mobility	1			0.102									
-42			Crime	Unemployment	1			0.103									
-42			Crime	Age Effects	1			0.081									
-42			Crime	Southern Effect	1			0.072									
-42			Crime	SES	1			-0.097									
-42			Crime	Sex Ratio	1			0.078									
-42			Crime	Structural Density	1			0.079									
-42			Crime	Get-tough Policy	1			-0.031									
-42			Crime	Policing Effect	1			-0.093									
-42			Crime	Education Effects	1			-0.029									
-43	Pratt et al	2006	Crime	Deterrence	1									40			
-43			Crime	Certainty	1			-0.101									
-43			Crime	Severity	1			-0.021									
-43			Crime	Deterrence/Sanction Composite	1			-0.056									
-43			Crime	Non-legal Sanctions	1			-0.143									
-44	Pratt et al	2010	Criminal Behavior	Social Learning Variables	0									133	118403		
-44			Criminal Behavior	Differential Association Overall	0			0.225									
-44			Criminal Behavior	Definitions Overall	0			0.218									
-44			Criminal Behavior	Differential Reinforcement Overall	0			0.097									
-44			Criminal Behavior	Modeling/Imitation Overall	0			0.103									
-45	Pratt, McGloin, & Fearn	2006	Criminal Behavior	Maternal Smoking During Pregnancy	0			0.065						18	12042		
-46	Savage & Yancey	2008	Criminal Behavior	Media Violence	0												
-46			Criminal Behavior	Aggregate Comparisons	1		0.043							4			
-46			Criminal Behavior	Experimental & Quasi-experimental	0		0.057							10	1567		
-46			Criminal Behavior	Multivariate, Longitudinal, Controls	0		0.102							6	1055		
-47	Teng, Liu, & Guo	2015	Aggression	Self-esteem (Chinese Students)	0		-0.21							52	82358		
-48	van Langen et al	2014	Criminal Behavior	Empathy	0										6631		
-48			Criminal Behavior	Cognitive Empathy	0	0.43								30	4648		
-48			Criminal Behavior	Affective Empathy	0	0.19								30	5659		
-49	Walters	1992	Criminal Behavior	Genetic Factors	0				0.09					38	40961		
-50	Walters	2012	Recidivism	Criminal Thinking	0												
-50			Recidivism	General Criminal Thinking	0		0.2							6	1799		
-50			Recidivism	Proactive Criminal Thinking	0		0.17							6	1799		
-50			Recidivism	Reactive Criminal Thinking 	0		0.17							6	1799		
-51	Walters	2013	Criminal Behavior	Animal Cruelty	0				0.21					14	3081		
-52	Andrews et al. 	1990	Recidivism	Correctional Treatment	0				0.3					54	7590		
-53	Bennett et al.	2006	Crime	Neighborhood Watch	1						1.19			12			
-54	Carriaga & Worrall	2015	Crime	Policing Effect	1												
-54			All Crime	Policing Effect	1	-0.242								3	6677		
-54			Violent Crime	Policing Effect	1	-0.03								5	32382		
-54			Property Crime	Policing Effect	1	-0.029								5	32382		
-55	Collins	2010	Recidivism	Risk Factors	0												
-55			Recidivism	Criminal History	0	0.56											
-55			Recidivism	Drug Use	0	0.3											
-55			Recidivism	Age	0	-0.05											
-55			Recidivism	Sentence Length	0	-0.26											
-56	Dowden & Brown	2002	Recidivism	Substance Abuse	0			0.22						4	3214		k is an estimate based on the report in the study that 11 effect and based on the calculation of an average of 2.5 effects per study (see abstract for details) 
-57	Edens et al.	2007	Recidivism	Psychopathy	0			0.26						21	2867	137	
-58	Farrington et al.	2007	Crime	CCTV	1						0.93			6		400	
-59	Gendreau et al.	1996	Recidivism	Risk Factors	0												
-59			Recidivism	Static	0			0.11						131	457552		k here is the total number of studies reported, even though not all would have been used here
-59			Recidivism	Dynamic	0			0.13						131	226664		k here is the total number of studies reported, even though not all would have been used here
-60	Gutierrez et al. 	2013	Recidivism	Risk Factors	0									49			
-60			Recidivism	Criminal History	0	0.53								25	33974		
-60			Recidivism	Employment/Education	0	0.38								19	25243		
-60			Recidivism	Family/Marital	0	0.19								26	30330		
-60			Recidivism	Leisure/Recreation	0	0.33								11	18657		
-60			Recidivism	Delinquent Peers	0	0.39								16	24397		
-60			Recidivism	Substance Abuse	0	0.33								20	25153		
-60			Recidivism	Criminal Attitudes	0	0.32								15	23803		
-60			Recidivism	Antisocial Personality or Psychopathy	0	0.57								10	4840		
-60			Recidivism	Gender	0	0.26								13	25531		
-60			Recidivism	Age	0	0.29								19	33302		
-60			Recidivism	Victim	0	0.11								6	4267		
-60			Recidivism	Emotionality	0	0.18								10	9574		
-61	Helmus et al. 	2012	Recidivism	Risk Assessment Instruments	0						1.34			21	5692		
-62	Helmus et al. 	2013	Recidivism	Criminal Attitudes	0	0.217								46	13782		
-63	Hsieh & Pugh	1993	Violent Crime	Economic Indicators	1		0.44							34	3559		
-64	Hubbard & Pratt	2002	Delinquency	Female Predictors	0									97	5981	61.65979381	
-64			Delinquency	Antisocial Behavior	0			0.48						2		62	
-64			Delinquency	Delinquent Peers	0			0.53						2		62	
-64			Delinquency	Criminal Attitudes	0			0.18						3		62	
-64			Delinquency	Antisocial Personality or Psychopathy	0			0.21						6		62	
-64			Delinquency	Age	0			0.09						4		62	
-64			Delinquency	Socioeconomic Status	0			0.03						10		62	
-64			Delinquency	Family Relationships	0			0.17						29		62	
-64			Delinquency	School Relationships	0			0.25						9		62	
-64			Delinquency	Physical/Sexual Abuse	0			0.21						3		62	
-64			Delinquency	Self-image	0			0.13						6		62	
-64			Delinquency	Social Adjustment	0			0.14						3		62	
-64			Delinquency	Anxiety	0			0.06						5		62	
-64			Delinquency	IQ	0			-0.16						3		62	
-65	Kelly et al. 	2015	Delinquency	Religion	0									62	193656	3123.483871	
-65			Delinquency	Religiosity	0			-0.19						32		3124	
-65			Delinquency	Church Attendance	0			-0.18						20		3124	
-66	McCann & Lussier	2008	Recidivism	Juvenile Sex Offenders	0									18	3189	177	
-66			Recidivism	Sexual Deviancy	0			0.11						8	1569		
-66			Recidivism	Antisociality	0			0.1						10	1805		
-67	Pratt et al.	2002	Delinquency	ADHD	0			0.155						20	6261		
-68	Pyrooz et al. 	2015	Delinquency	Gang Membership	0			0.166						179	332080		
-69	Reitzel & Carbonell	2006	Recidivism	Sex Offender Treatment	0						0.43			9	2986		
-70	Schmucker & Lšsel	2015	Recidivism	Sex Offender Treatment	0						1.45			14		385	
-71	Taheri & Welsh	2015	Delinquency	After-school Programs	0	0.062								12	19986		
-72	Van Vugt et al.	2011	Recidivism	Moral Development	0		0.11							19	15992		
-73	Visher et al. 	2005	Recidivism	Employment Programs	0	0.03								10	6000		
-74	Walters	2003	Recidivism	Psychopathy Checklist	0												
-74			Recidivism	Factor 1	0		0.16							34	6078		
-74			Recidivism	Factor 2	0		0.27							34	6078		
-75	Leistico et al.	2008	Antisocial Behavior	Psychopathy Checklist	0	0.55								94	15826	167	
-76	Moore et al.	2002	Antisocial Behavior	Serotonin	0	-0.45								20	921		
-77	Mitchell et al.	2012	Recidivism	Drug Court Participation	0												
-				Adult Drug Court	0						1.66			92	22324		
-				Juvenile Drug Court	0						1.37			34	6868		
-				DWI Drug Court	0						1.65			28	6618		
-78	Wilson & Hoge	2013	Recidivism	Youth Diversion Programs	0						0.57			45	78640		
-79	Latimer	2001	Recidivism	Family Therapy	0		0.12							35	17141		
-80	Redondo et al.	1999	Recidivism	Treatment	0		0.12							32	5715		
+No",Authors,Year,Outcome(s),Predictor(s),"Micro=0
+Macro=1",d,r,z(r) ,Phi,Hedges g,"Odds Ratio
+(OR)",Logged OR,Risk Ratio,"k
+(# of studies)",total n,average n,notes
+1,Braga et al ,2014,Crime,Hot Spots Policing,1,0.184,,,,,,,,16,,,
+2,Braga & Weisburd,2012,Crime,Focused Deterrence,1,0.604,,,,,,,,10,,,
+3,"Braga, Welsh, & Schnell",2015,Crime,Policing Disorder,1,0.21,,,,,,,,28,,,
+4,Welsh & Farrington ,2009,Crime,CCTV,1,,,,,,1.19,,,41,,,
+5,Barnes et al,2014,Aggression,School-based CBT,0,-0.23,,,,,,,,25,31080,,
+6,Cox et al,1995,Delinquency,Alternative Education/Schools,0,,,,,,,,,,,,
+6,,,Delinquency,Comparison,0,,0.03,,,,,,,9,1542,,
+6,,,Delinquency,Pre/post,0,,0.23,,,,,,,4,262,,
+7,Dowden & Andrews,2003,Offender Outcomes,Family Intevention,0,,,,0.21,,,,,38,,,
+8,Gobeil et al,2016,Recidivism,Interventions for Women,0,,,,,,1.35,,,38,21728,,
+9,Goncalves et al ,2014,Prison Infractions,Predictors of Inmate Adjustment,0,,,,,,,,,,,,
+9,,,Prison Infractions,Age,0,,-0.11,,,,,,,26,266020,,
+9,,,Prison Infractions,Education,0,,-0.03,,,,,,,15,252353,,
+9,,,Prison Infractions,Father,0,,0.02,,,,,,,5,11873,,
+9,,,Prison Infractions,Foreigner,0,,0.02,,,,,,,4,84644,,
+9,,,Prison Infractions,Social Support,0,,-0.06,,,,,,,6,11318,,
+9,,,Prison Infractions,Married,0,,-0.02,,,,,,,10,113438,,
+9,,,Prison Infractions,Black,0,,0.01,,,,,,,17,147904,,
+9,,,Prison Infractions,White,0,,-0.02,,,,,,,6,22831,,
+9,,,Prison Infractions,Latino,0,,-0.01,,,,,,,13,129456,,
+9,,,Prison Infractions,Aggressiveness,0,,0.2,,,,,,,12,2365,,
+9,,,Prison Infractions,Antisocial Personality,0,,0.17,,,,,,,14,3865,,
+9,,,Prison Infractions,Impulsivity,0,,0.19,,,,,,,6,867,,
+9,,,Prison Infractions,Prior Mental Treatment,0,,0.02,,,,,,,5,11413,,
+9,,,Prison Infractions,Substance Abuse,0,,0.07,,,,,,,11,24144,,
+9,,,Prison Infractions,Victimization History,0,,0.03,,,,,,,4,12958,,
+9,,,Prison Infractions,Age at First Arrest,0,,-0.07,,,,,,,4,2405,,
+9,,,Prison Infractions,Crime: Drug,0,,-0.02,,,,,,,7,30095,,
+9,,,Prison Infractions,Crime: Property,0,,0.05,,,,,,,5,23532,,
+9,,,Prison Infractions,Crime: Violent,0,,0.01,,,,,,,14,347336,,
+9,,,Prison Infractions,Criminal History,0,,0.08,,,,,,,16,197448,,
+9,,,Prison Infractions,Gang Involvement,0,,0.04,,,,,,,13,149932,,
+9,,,Prison Infractions,Instititutional Risk,0,,0.13,,,,,,,12,37063,,
+9,,,Prison Infractions,Prior Incarceration,0,,0.05,,,,,,,16,134705,,
+9,,,Prison Infractions,Prior Infractions,0,,0.21,,,,,,,6,28751,,
+9,,,Prison Infractions,Sentence Length,0,,-0.02,,,,,,,13,170996,,
+9,,,Prison Infractions,Time Served,0,,0.04,,,,,,,10,144859,,
+9,,,Prison Infractions,Violent History,0,,0.04,,,,,,,7,183133,,
+9,,,Prison Infractions,Crowding,0,,-0.03,,,,,,,8,2738,,
+9,,,Prison Infractions,Gang Activity,0,,0.17,,,,,,,7,639,,
+9,,,Prison Infractions,Maximum Security,0,,0.16,,,,,,,9,2476,,
+9,,,Prison Infractions,Population Size,0,,0.21,,,,,,,6,1653,,
+9,,,Prison Infractions,Ratio Staff-inmates,0,,-0.01,,,,,,,8,2504,,
+9,,,Prison Infractions,Proportion Working Inmates,0,,-0.06,,,,,,,4,1153,,
+9,,,Prison Infractions,Years in Operation,0,,0.03,,,,,,,4,1216,,
+10,Helmond et al,2015,Externalizing Behavior,Distortions/Interventions,0,,,,,,,,,,,,
+10,,,Externalizing Behavior,Cognitive Distortions,0,0.7,,,,,,,,53,18544,,
+10,,,Externalizing Behavior,Interventions,0,0.27,,,,,,,,18,2037,,
+11,Helmus & Thornton,2015,Sexual Recidivism,Static-99/2002 Items,0,,,,,,,,,,,,
+11,,,Sexual Recidivism,Age,0,,,,,,,,0.98,19,7461,,
+11,,,Sexual Recidivism,Static-99 Age,0,,,,,,,,1.31,22,8053,,
+11,,,Sexual Recidivism,Static-2002 Age,0,,,,,,,,1.3,8,2950,,
+11,,,Sexual Recidivism,Static-99R/2002 Revised Age,0,,,,,,,,1.28,19,7461,,
+11,,,Sexual Recidivism,Ever Lived with Lover,0,,,,,,,,1.7,22,8004,,
+11,,,Sexual Recidivism,Index Nonsexual Violence,0,,,,,,,,1.22,22,8053,,
+11,,,Sexual Recidivism,Prior Nonsexual Violence,0,,,,,,,,1.55,22,8053,,
+11,,,Sexual Recidivism,Prior Sex Offenses,0,,,,,,,,1.66,22,8053,,
+11,,,Sexual Recidivism,Prior Sentencing Dates,0,,,,,,,,1.84,22,8053,,
+11,,,Sexual Recidivism,Any Noncontact Sex Offense,0,,,,,,,,2.47,22,8053,,
+11,,,Sexual Recidivism,Any Unrelated Victim,0,,,,,,,,2.29,22,8053,,
+11,,,Sexual Recidivism,Any Stranger Victim,0,,,,,,,,2.06,22,8053,,
+11,,,Sexual Recidivism,Any Male Victim,0,,,,,,,,1.43,22,8053,,
+11,,,Sexual Recidivism,Prior Sex Sent. Dates,0,,,,,,,,1.67,8,2951,,
+11,,,Sexual Recidivism,Juvenile Sex Arrest,0,,,,,,,,1.67,8,2951,,
+11,,,Sexual Recidivism,High Rate of Sex Offenses,0,,,,,,,,2.92,8,2951,,
+11,,,Sexual Recidivism,"2+ Victims <12, One Unrelated",0,,,,,,,,1.42,8,2944,,
+11,,,Sexual Recidivism,Prior Sentencing Occasions,0,,,,,,,,1.55,8,2951,,
+11,,,Sexual Recidivism,Breach Conditional Release,0,,,,,,,,2.27,8,2947,,
+11,,,Sexual Recidivism,Years Free Prior to Index,0,,,,,,,,2.35,8,2949,,
+11,,,Sexual Recidivism,Prior Nonsexual Violence,0,,,,,,,,1.55,8,2951,,
+12,Hoogsteder et al,2015,Aggression,Cognitive Behavioral Treatment,0,1.139,,,,,,,,6,164,,
+13,Koehler et al,2014,Recidivism,European Drug Treatment,0,0.47,,,,,,,,15,3953,,
+14,Lipsey ,2009,Recidivism,Interventions (Juveniles),0,,,,0.062,,,,,361,,,
+15,Lytle ,2014,Arrest,Suspect Characteristics,0,,,,,,,,,,,,
+15,,,Arrest,Black,0,,,,,,,0.33,,42,,77005.1,
+15,,,Arrest,Male,0,,,,,,,0.4,,38,,84554.5,
+15,,,Arrest,Age,0,,,,,,,-0.001,,35,,60809.79,
+15,,,Arrest,Hispanic,0,,,,,,,0.22,,15,,190586.53,
+16,Piquero et al,2009,Antisocial Behavior,Family/Parent Training,0,0.35,,,,,,,,55,,137,
+17,Prendergast et al,2013,Criminal Behavior,"Risk, Needs, Responsivity Principles",0,,,,,0.06,,,,51,,,
+18,Schwalbe et al,2012,Delinquency/Recidivism,Juvenile Diversion Program,0,,,,,,0.83,,,28,19301,585,
+19,"Smith, Cullen, & Letessa",2009,Recidivism,LSI-R (Females),0,,0.34,,,,,,,25,14737,,
+20,Tolan et al,2014,Delinquency,Mentoring Program Participation,0,,,,,0.21,,,,25,,,
+21,Walters,2006,Recidivism,Risk Assessment Instruments,0,,,,,,,,,,,,
+21,,,Recidivism,Risk-Appraisal Instrument,0,,0.3,,,,,,,22,3533,,
+21,,,Recidivism,Self-Report Risk Appraisal Instrument,0,,0.23,,,,,,,22,3533,,
+22,"Wilson, Mitchell, & MacKenzie",2006,Recidivism,Drug Court Participation,0,,,,,,1.66,,,50,32652,,
+23,"Wilson, Gallegher, & MacKenzie",2000,Recidivism,"Corrections-based Education, 
+Vocation, and Work Programs",0,,,,,,,,,,,,
+23,,,Recidivism,Adult Basic Education,0,,,,,,,0.41,,33,,,
+23,,,Recidivism,Postsecondary Education,0,,,,,,,0.41,,33,,,
+23,,,Recidivism,Vocational Training,0,,,,,,,0.27,,33,,,
+23,,,Recidivism,Correctional Work,0,,,,,,,-0.06,,33,,,
+24,Wilson ,2014,Recidivism,"Antisocial Personality Disorder
+Treatment",0,,,,,,,,,,,,
+24,,,Recidivism,Controlled Trials,0,,,,,,0.51,,,3,146,,
+24,,,Recidivism,Uncontrolled Trials,0,,,,,,0.93,,,5,611,,
+25,Wilson & Gutierrez ,2014,Recidivism,Level of Service Inventory,0,,,,,,,,,,,,
+25,,,Recidivism,Criminal History,0,0.57,,,,,,,,11,20294,,
+25,,,Recidivism,Employment/Education,0,0.44,,,,,,,,11,20294,,
+25,,,Recidivism,Family/Marital,0,0.24,,,,,,,,11,20294,,
+25,,,Recidivism,Leisure/Recreation,0,0.34,,,,,,,,11,20287,,
+25,,,Recidivism,Companions,0,0.39,,,,,,,,11,20294,,
+25,,,Recidivism,Alcohol/Drugs,0,0.42,,,,,,,,11,20294,,
+25,,,Recidivism,Procriminal Attitude,0,0.39,,,,,,,,11,20293,,
+25,,,Recidivism,Antisocial Pattern,0,0.6,,,,,,,,8,6335,,
+25,,,Recidivism,LS Scales,0,0.62,,,,,,,,13,21058,,
+25,,,Recidivism,LSI-OR,0,0.76,,,,,,,,7,6205,,
+25,,,Recidivism,LSI-R,0,0.29,,,,,,,,3,14051,,
+26,Wood & Mayo-Wilson,2012,Behavior,Mentoring Program Participation,0,,,,,0.03,,,,4,4347,,
+27,Baier & Wright,2001,Criminal Behavior,Religion,0,,-0.12,,,,,,,79,245822,,
+28,"Bennett, Holloway, & Farrington",2008,Criminal Behavior,Drug Misuse,0,,,,,,2.79,,,30,66070,,
+29,"Blais, Solodukhin, & Forth",2014,Violence,Psychopathy,0,,,,,,,,,,,,
+29,,,Instrumental Violence,Psychopathy,0,,0.36,,,,,,,53,8542,,
+29,,,Reactive Violence,Psychopathy,0,,0.35,,,,,,,40,7394,,
+30,"Bonta, Blais, & Wilson",2014,Recidivism,"Risk Factors for Mentally
+Disordered Offenders",0,,,,,,,,,,,,
+30,,,Recidivism,Criminal History,0,0.34,,,,,,,,37,8312,,
+30,,,Recidivism,Procriminal Attitude,0,0.37,,,,,,,,4,976,,
+30,,,Recidivism,Antisocial Personality Pattern,0,0.41,,,,,,,,30,5578,,
+30,,,Recidivism,Education/Employment,0,0.41,,,,,,,,10,1521,,
+30,,,Recidivism,Family/Marital,0,0.38,,,,,,,,11,2205,,
+30,,,Recidivism,Family Problems,0,0.33,,,,,,,,7,1579,,
+30,,,Recidivism,Substance Abuse,0,0.51,,,,,,,,22,4491,,
+30,,,Recidivism,Psychosis,0,0.03,,,,,,,,17,3303,,
+30,,,Recidivism,Schizophrenia,0,0.01,,,,,,,,9,1849,,
+30,,,Recidivism,Mood Disorder,0,-0.16,,,,,,,,10,2341,,
+30,,,Recidivism,Intelligence,0,0.15,,,,,,,,7,2409,,
+30,,,Recidivism,Prior Admissions,0,0.12,,,,,,,,10,2660,,
+30,,,Recidivism,Length of Hospitalization,0,-0.11,,,,,,,,11,2352,,
+30,,,Recidivism,Psychiatric Treatment History,0,-0.23,,,,,,,,26,4142,,
+30,,,Recidivism,Non-/Mentally Disordered,0,-0.09,,,,,,,,27,9504,,
+30,,,Recidivism,NGRI vs. Non-mentally Disordered,0,0.01,,,,,,,,7,1838,,
+30,,,Recidivism,Personality Disorders,0,0.44,,,,,,,,9,1765,,
+30,,,Recidivism,Antisocial Personality or Psychopathy,0,0.54,,,,,,,,16,3742,,
+31,"Cottle, Lee, & Heilbrun",2001,Recidivism,Juvenile Predictors,0,,,,,,,,,,,,
+31,,,Recidivism,Age at First Commitment,0,,,-0.346,,,,,,3,720,,
+31,,,Recidivism,Age at First Contact Law,0,,,-0.341,,,,,,8,1225,,
+31,,,Recidivism,Nonsevere Pathology,0,,,0.305,,,,,,7,953,,
+31,,,Recidivism,Family Problems,0,,,0.277,,,,,,5,1054,,
+31,,,Recidivism,Conduct Problems,0,,,0.255,,,,,,7,1667,,
+31,,,Recidivism,Effective Use of Leisure Time,0,,,-0.233,,,,,,2,588,,
+31,,,Recidivism,Delinquent Peers,0,,,0.204,,,,,,7,1525,,
+31,,,Recidivism,Length of First Incarceration,0,,,0.187,,,,,,3,641,,
+31,,,Recidivism,Number of Out-home Placements,0,,,0.184,,,,,,2,424,,
+31,,,Recidivism,Number of Prior Commitments,0,,,0.174,,,,,,3,585,,
+31,,,Recidivism,Type of Crime,0,,,0.159,,,,,,7,10267,,
+31,,,Recidivism,Std. Achievement Score,0,,,-0.153,,,,,,3,506,,
+31,,,Recidivism,Substance Abuse,0,,,0.149,,,,,,6,1111,,
+31,,,Recidivism,IQ,0,,,-0.142,,,,,,5,1756,,
+31,,,Recidivism,History of Special Education,0,,,0.13,,,,,,2,432,,
+31,,,Recidivism,Risk Assessment Instruments,0,,,0.118,,,,,,6,10353,,
+31,,,Recidivism,History of Abuse,0,,,0.112,,,,,,5,9949,,
+31,,,Recidivism,Male,0,,,0.111,,,,,,3,9671,,
+31,,,Recidivism,Verbal IQ,0,,,-0.111,,,,,,4,716,,
+31,,,Recidivism,Single Parent,0,,,0.07,,,,,,5,10501,,
+31,,,Recidivism,Severe Pathology,0,,,0.069,,,,,,2,346,,
+31,,,Recidivism,Race Minority,0,,,0.067,,,,,,6,10121,,
+31,,,Recidivism,SES,0,,,0.065,,,,,,3,10363,,
+31,,,Recidivism,Number of Prior Arrests,0,,,0.058,,,,,,7,10155,,
+31,,,Recidivism,School Attendance,0,,,-0.048,,,,,,2,299,,
+31,,,Recidivism,Parent Pathology,0,,,0.047,,,,,,3,529,,
+31,,,Recidivism,Performance IQ,0,,,-0.031,,,,,,2,491,,
+31,,,Recidivism,School Report of Achievement,0,,,-0.028,,,,,,6,10025,,
+31,,,Recidivism,History of Treatment,0,,,0.019,,,,,,2,9366,,
+31,,,Recidivism,Substance Use,0,,,0.014,,,,,,2,9366,,
+32,Derzon,2010,Antisocial Behavior,Family Features,0,,0.15,,,,,,,119,,700,
+33,"Jones, Miller, & Lynam",2011,Antisocial Behavior,Five-factor Model of Personality,0,,,,,,,,,,,,
+33,,,Antisocial Behavior,Neuroticism,0,,,0.092,,,,,,29,10187,,
+33,,,Antisocial Behavior,Extraversion,0,,,-0.014,,,,,,29,10187,,
+33,,,Antisocial Behavior,Openness,0,,,0.014,,,,,,31,10311,,
+33,,,Antisocial Behavior,Agreeableness,0,,,-0.308,,,,,,29,10186,,
+33,,,Antisocial Behavior,Conscientiousness,0,,,-0.234,,,,,,30,10308,,
+34,Joyal et al.,2014,Sex Offending,Neuropsychological Factors,0,0.59,,,,,,,,14,1756,,
+35,Leschied et al,2008,Criminal Behavior,Childhood Predictors,0,0.29,,,,,,,,29,33821,,
+36,Miller & Lynam,2001,Antisocial Behavior,Personality,0,,,,,,,,,,,,
+36,,,Antisocial Behavior,Neuroticism,0,,0.12,,,,,,,14,4584,,
+36,,,Antisocial Behavior,Extraversion,0,,0,,,,,,,14,4584,,
+36,,,Antisocial Behavior,Opennes,0,,-0.03,,,,,,,14,4584,,
+36,,,Antisocial Behavior,Agreeableness,0,,-0.41,,,,,,,15,4673,,
+36,,,Antisocial Behavior,Conscientiousness,0,,-0.25,,,,,,,14,4584,,
+36,,,Antisocial Behavior,Psychoticism,0,,0.39,,,,,,,35,15339,,
+36,,,Antisocial Behavior,Extraversion,0,,0.1,,,,,,,37,15568,,
+36,,,Antisocial Behavior,Neuroticism,0,,0.23,,,,,,,34,15678,,
+36,,,Antisocial Behavior,Positive Emotionality,0,,0.01,,,,,,,2,1235,,
+36,,,Antisocial Behavior,Negative Emotionality,0,,0.26,,,,,,,2,1235,,
+36,,,Antisocial Behavior,Constraint,0,,-0.24,,,,,,,2,1235,,
+36,,,Antisocial Behavior,Novelty Seeking,0,,0.28,,,,,,,4,742,,
+36,,,Antisocial Behavior,Harm Avoidance,0,,-0.03,,,,,,,4,742,,
+36,,,Antisocial Behavior,Reward Dependence,0,,-0.07,,,,,,,4,742,,
+36,,,Antisocial Behavior,Persistence,0,,-0.02,,,,,,,4,742,,
+36,,,Antisocial Behavior,Self-directedness,0,,-0.21,,,,,,,4,742,,
+36,,,Antisocial Behavior,Cooperativeness,0,,-0.18,,,,,,,4,742,,
+36,,,Antisocial Behavior,Self-transcendence,0,,0.03,,,,,,,4,742,,
+37,Nivette,2011,Homicide Rates,Cross-national Predictors,1,,,,,,,,,,,,
+37,,,Homicide Rates,Infant Mortality,1,,0.196,,,,,,,8,,44,
+37,,,Homicide Rates,Decommodification,1,,-0.279,,,,,,,4,,44,
+37,,,Homicide Rates,West,1,,-0.108,,,,,,,2,,44,
+37,,,Homicide Rates,East,1,,-0.326,,,,,,,2,,44,
+37,,,Homicide Rates,Latin America,1,,0.445,,,,,,,2,,44,
+37,,,Homicide Rates,Urbanism,1,,-0.103,,,,,,,27,,44,
+37,,,Homicide Rates,Population Density,1,,-0.012,,,,,,,12,,44,
+37,,,Homicide Rates,Population Growth,1,,0.251,,,,,,,9,,44,
+37,,,Homicide Rates,Population Total,1,,-0.024,,,,,,,16,,44,
+37,,,Homicide Rates,Sex Ratio,1,,-0.095,,,,,,,15,,44,
+37,,,Homicide Rates,Age > 15,1,,0.116,,,,,,,17,,44,
+37,,,Homicide Rates,Age < 15,1,,-0.1,,,,,,,8,,44,
+37,,,Homicide Rates,Deterrence,1,,0.072,,,,,,,6,,44,
+37,,,Homicide Rates,Income Inequality Ratio,1,,0.416,,,,,,,13,,44,
+37,,,Homicide Rates,Income Inequality Index,1,,0.224,,,,,,,31,,44,
+37,,,Homicide Rates,Economic Discrimination,1,,0.136,,,,,,,6,,44,
+37,,,Homicide Rates,Development Index,1,,-0.163,,,,,,,14,,44,
+37,,,Homicide Rates,Economic Development,1,,-0.055,,,,,,,37,,44,
+37,,,Homicide Rates,Modernization,1,,-0.173,,,,,,,9,,44,
+37,,,Homicide Rates,Female Education,1,,0.11,,,,,,,3,,44,
+37,,,Homicide Rates,Literacy,1,,0.219,,,,,,,2,,44,
+37,,,Homicide Rates,Democracy Indices,1,,-0.012,,,,,,,6,,44,
+37,,,Homicide Rates,Political Rights,1,,-0.088,,,,,,,5,,44,
+37,,,Homicide Rates,Household Size,1,,0.166,,,,,,,3,,44,
+37,,,Homicide Rates,Female Labor,1,,0.223,,,,,,,13,,44,
+37,,,Homicide Rates,Unemployment,1,,0.043,,,,,,,4,,44,
+37,,,Homicide Rates,Ethnic Heterogeneity,1,,0.163,,,,,,,12,,44,
+37,,,Homicide Rates,Ethnic Homogeneity,1,,-0.247,,,,,,,5,,44,
+37,,,Homicide Rates,Divorce,1,,0.277,,,,,,,10,,44,
+37,,,Homicide Rates,Socal Support,1,,-0.072,,,,,,,15,,44,
+38,Ogilvie et al,2014,Criminal Behavior,Attachment,0,,,,,,,,,,,,
+38,,,Criminal Behavior,Attachment Security,0,-0.44,,,,,,,,9,1091,,
+38,,,Criminal Behavior,Attachment Anxiety,0,0.36,,,,,,,,14,1621,,
+38,,,Criminal Behavior,Attachment Avoidance,0,0.55,,,,,,,,14,1621,,
+39,Ogilvie et al,2011,Antisocial Behavior,Executive Functioning,0,0.53,,,,,,,,126,14786,,
+40,Portnoy & Farrington,2015,Antisocial Behavior,Resting Heart Rate,0,-0.2,,,,,,,,45,,,
+41,Pratt & Cullen,2000,Criminal Behavior,Self-control,0,,,,,,,,,21,"49,727",2367.952381,
+41,,,Criminal Behavior,Attitudinal Measure,0,,,0.223,,,,,,,,2368,
+41,,,Criminal Behavior,Behavioral Measure,0,,,0.288,,,,,,,,2368,
+41,,,Criminal Behavior,Self-control-Opportunity Interaction,0,,,0.505,,,,,,,,2368,
+42,Pratt & Cullen,2005,Crime,Macro-level Predictors,1,,,,,,,,,214,,,
+42,,,Crime,Strength of Noneconomic Institutions,1,,,-0.391,,,,,,,,,
+42,,,Crime,Firearm Ownership,1,,,0.332,,,,,,,,,
+42,,,Crime,Incarceration Effect,1,,,-0.227,,,,,,,,,
+42,,,Crime,Collective Efficacy,1,,,-0.277,,,,,,,,,
+42,,,Crime,Racial Heterogeneity,1,,,0.218,,,,,,,,,
+42,,,Crime,Religion,1,,,-0.26,,,,,,,,,
+42,,,Crime,Family Disruption,1,,,0.152,,,,,,,,,
+42,,,Crime,Poverty,1,,,0.234,,,,,,,,,
+42,,,Crime,Unsupervised Peer Groups,1,,,0.251,,,,,,,,,
+42,,,Crime,Household Activity Ratio,1,,,0.149,,,,,,,,,
+42,,,Crime,Social Support/Altruism,1,,,-0.156,,,,,,,,,
+42,,,Crime,Inequality,1,,,0.17,,,,,,,,,
+42,,,Crime,Urbanism,1,,,0.243,,,,,,,,,
+42,,,Crime,Residential Mobility,1,,,0.102,,,,,,,,,
+42,,,Crime,Unemployment,1,,,0.103,,,,,,,,,
+42,,,Crime,Age Effects,1,,,0.081,,,,,,,,,
+42,,,Crime,Southern Effect,1,,,0.072,,,,,,,,,
+42,,,Crime,SES,1,,,-0.097,,,,,,,,,
+42,,,Crime,Sex Ratio,1,,,0.078,,,,,,,,,
+42,,,Crime,Structural Density,1,,,0.079,,,,,,,,,
+42,,,Crime,Get-tough Policy,1,,,-0.031,,,,,,,,,
+42,,,Crime,Policing Effect,1,,,-0.093,,,,,,,,,
+42,,,Crime,Education Effects,1,,,-0.029,,,,,,,,,
+43,Pratt et al,2006,Crime,Deterrence,1,,,,,,,,,40,,,
+43,,,Crime,Certainty,1,,,-0.101,,,,,,,,,
+43,,,Crime,Severity,1,,,-0.021,,,,,,,,,
+43,,,Crime,Deterrence/Sanction Composite,1,,,-0.056,,,,,,,,,
+43,,,Crime,Non-legal Sanctions,1,,,-0.143,,,,,,,,,
+44,Pratt et al,2010,Criminal Behavior,Social Learning Variables,0,,,,,,,,,133,118403,,
+44,,,Criminal Behavior,Differential Association Overall,0,,,0.225,,,,,,,,,
+44,,,Criminal Behavior,Definitions Overall,0,,,0.218,,,,,,,,,
+44,,,Criminal Behavior,Differential Reinforcement Overall,0,,,0.097,,,,,,,,,
+44,,,Criminal Behavior,Modeling/Imitation Overall,0,,,0.103,,,,,,,,,
+45,"Pratt, McGloin, & Fearn",2006,Criminal Behavior,Maternal Smoking During Pregnancy,0,,,0.065,,,,,,18,12042,,
+46,Savage & Yancey,2008,Criminal Behavior,Media Violence,0,,,,,,,,,,,,
+46,,,Criminal Behavior,Aggregate Comparisons,1,,0.043,,,,,,,4,,,
+46,,,Criminal Behavior,Experimental & Quasi-experimental,0,,0.057,,,,,,,10,1567,,
+46,,,Criminal Behavior,"Multivariate, Longitudinal, Controls",0,,0.102,,,,,,,6,1055,,
+47,"Teng, Liu, & Guo",2015,Aggression,Self-esteem (Chinese Students),0,,-0.21,,,,,,,52,82358,,
+48,van Langen et al,2014,Criminal Behavior,Empathy,0,,,,,,,,,,6631,,
+48,,,Criminal Behavior,Cognitive Empathy,0,0.43,,,,,,,,30,4648,,
+48,,,Criminal Behavior,Affective Empathy,0,0.19,,,,,,,,30,5659,,
+49,Walters,1992,Criminal Behavior,Genetic Factors,0,,,,0.09,,,,,38,40961,,
+50,Walters,2012,Recidivism,Criminal Thinking,0,,,,,,,,,,,,
+50,,,Recidivism,General Criminal Thinking,0,,0.2,,,,,,,6,1799,,
+50,,,Recidivism,Proactive Criminal Thinking,0,,0.17,,,,,,,6,1799,,
+50,,,Recidivism,Reactive Criminal Thinking ,0,,0.17,,,,,,,6,1799,,
+51,Walters,2013,Criminal Behavior,Animal Cruelty,0,,,,0.21,,,,,14,3081,,
+52,Andrews et al. ,1990,Recidivism,Correctional Treatment,0,,,,0.3,,,,,54,7590,,
+53,Bennett et al.,2006,Crime,Neighborhood Watch,1,,,,,,1.19,,,12,,,
+54,Carriaga & Worrall,2015,Crime,Policing Effect,1,,,,,,,,,,,,
+54,,,All Crime,Policing Effect,1,-0.242,,,,,,,,3,6677,,
+54,,,Violent Crime,Policing Effect,1,-0.03,,,,,,,,5,32382,,
+54,,,Property Crime,Policing Effect,1,-0.029,,,,,,,,5,32382,,
+55,Collins,2010,Recidivism,Risk Factors,0,,,,,,,,,,,,
+55,,,Recidivism,Criminal History,0,0.56,,,,,,,,,,,
+55,,,Recidivism,Drug Use,0,0.3,,,,,,,,,,,
+55,,,Recidivism,Age,0,-0.05,,,,,,,,,,,
+55,,,Recidivism,Sentence Length,0,-0.26,,,,,,,,,,,
+56,Dowden & Brown,2002,Recidivism,Substance Abuse,0,,,0.22,,,,,,4,3214,,k is an estimate based on the report in the study that 11 effect and based on the calculation of an average of 2.5 effects per study (see abstract for details) 
+57,Edens et al.,2007,Recidivism,Psychopathy,0,,,0.26,,,,,,21,2867,137,
+58,Farrington et al.,2007,Crime,CCTV,1,,,,,,0.93,,,6,,400,
+59,Gendreau et al.,1996,Recidivism,Risk Factors,0,,,,,,,,,,,,
+59,,,Recidivism,Static,0,,,0.11,,,,,,131,457552,,"k here is the total number of studies reported, even though not all would have been used here"
+59,,,Recidivism,Dynamic,0,,,0.13,,,,,,131,226664,,"k here is the total number of studies reported, even though not all would have been used here"
+60,Gutierrez et al. ,2013,Recidivism,Risk Factors,0,,,,,,,,,49,,,
+60,,,Recidivism,Criminal History,0,0.53,,,,,,,,25,33974,,
+60,,,Recidivism,Employment/Education,0,0.38,,,,,,,,19,25243,,
+60,,,Recidivism,Family/Marital,0,0.19,,,,,,,,26,30330,,
+60,,,Recidivism,Leisure/Recreation,0,0.33,,,,,,,,11,18657,,
+60,,,Recidivism,Delinquent Peers,0,0.39,,,,,,,,16,24397,,
+60,,,Recidivism,Substance Abuse,0,0.33,,,,,,,,20,25153,,
+60,,,Recidivism,Criminal Attitudes,0,0.32,,,,,,,,15,23803,,
+60,,,Recidivism,Antisocial Personality or Psychopathy,0,0.57,,,,,,,,10,4840,,
+60,,,Recidivism,Gender,0,0.26,,,,,,,,13,25531,,
+60,,,Recidivism,Age,0,0.29,,,,,,,,19,33302,,
+60,,,Recidivism,Victim,0,0.11,,,,,,,,6,4267,,
+60,,,Recidivism,Emotionality,0,0.18,,,,,,,,10,9574,,
+61,Helmus et al. ,2012,Recidivism,Risk Assessment Instruments,0,,,,,,1.34,,,21,5692,,
+62,Helmus et al. ,2013,Recidivism,Criminal Attitudes,0,0.217,,,,,,,,46,13782,,
+63,Hsieh & Pugh,1993,Violent Crime,Economic Indicators,1,,0.44,,,,,,,34,3559,,
+64,Hubbard & Pratt,2002,Delinquency,Female Predictors,0,,,,,,,,,97,5981,61.65979381,
+64,,,Delinquency,Antisocial Behavior,0,,,0.48,,,,,,2,,62,
+64,,,Delinquency,Delinquent Peers,0,,,0.53,,,,,,2,,62,
+64,,,Delinquency,Criminal Attitudes,0,,,0.18,,,,,,3,,62,
+64,,,Delinquency,Antisocial Personality or Psychopathy,0,,,0.21,,,,,,6,,62,
+64,,,Delinquency,Age,0,,,0.09,,,,,,4,,62,
+64,,,Delinquency,Socioeconomic Status,0,,,0.03,,,,,,10,,62,
+64,,,Delinquency,Family Relationships,0,,,0.17,,,,,,29,,62,
+64,,,Delinquency,School Relationships,0,,,0.25,,,,,,9,,62,
+64,,,Delinquency,Physical/Sexual Abuse,0,,,0.21,,,,,,3,,62,
+64,,,Delinquency,Self-image,0,,,0.13,,,,,,6,,62,
+64,,,Delinquency,Social Adjustment,0,,,0.14,,,,,,3,,62,
+64,,,Delinquency,Anxiety,0,,,0.06,,,,,,5,,62,
+64,,,Delinquency,IQ,0,,,-0.16,,,,,,3,,62,
+65,Kelly et al. ,2015,Delinquency,Religion,0,,,,,,,,,62,193656,3123.483871,
+65,,,Delinquency,Religiosity,0,,,-0.19,,,,,,32,,3124,
+65,,,Delinquency,Church Attendance,0,,,-0.18,,,,,,20,,3124,
+66,McCann & Lussier,2008,Recidivism,Juvenile Sex Offenders,0,,,,,,,,,18,3189,177,
+66,,,Recidivism,Sexual Deviancy,0,,,0.11,,,,,,8,1569,,
+66,,,Recidivism,Antisociality,0,,,0.1,,,,,,10,1805,,
+67,Pratt et al.,2002,Delinquency,ADHD,0,,,0.155,,,,,,20,6261,,
+68,Pyrooz et al. ,2015,Delinquency,Gang Membership,0,,,0.166,,,,,,179,332080,,
+69,Reitzel & Carbonell,2006,Recidivism,Sex Offender Treatment,0,,,,,,0.43,,,9,2986,,
+70,Schmucker & L_sel,2015,Recidivism,Sex Offender Treatment,0,,,,,,1.45,,,14,,385,
+71,Taheri & Welsh,2015,Delinquency,After-school Programs,0,0.062,,,,,,,,12,19986,,
+72,Van Vugt et al.,2011,Recidivism,Moral Development,0,,0.11,,,,,,,19,15992,,
+73,Visher et al. ,2005,Recidivism,Employment Programs,0,0.03,,,,,,,,10,6000,,
+74,Walters,2003,Recidivism,Psychopathy Checklist,0,,,,,,,,,,,,
+74,,,Recidivism,Factor 1,0,,0.16,,,,,,,34,6078,,
+74,,,Recidivism,Factor 2,0,,0.27,,,,,,,34,6078,,
+75,Leistico et al.,2008,Antisocial Behavior,Psychopathy Checklist,0,0.55,,,,,,,,94,15826,167,
+76,Moore et al.,2002,Antisocial Behavior,Serotonin,0,-0.45,,,,,,,,20,921,,
+77,Mitchell et al.,2012,Recidivism,Drug Court Participation,0,,,,,,,,,,,,
+,,,,Adult Drug Court,0,,,,,,1.66,,,92,22324,,
+,,,,Juvenile Drug Court,0,,,,,,1.37,,,34,6868,,
+,,,,DWI Drug Court,0,,,,,,1.65,,,28,6618,,
+78,Wilson & Hoge,2013,Recidivism,Youth Diversion Programs,0,,,,,,0.57,,,45,78640,,
+79,Latimer,2001,Recidivism,Family Therapy,0,,0.12,,,,,,,35,17141,,
+80,Redondo et al.,1999,Recidivism,Treatment,0,,0.12,,,,,,,32,5715,,
