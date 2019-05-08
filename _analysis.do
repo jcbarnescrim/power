@@ -3,7 +3,7 @@
 * ------------------------------------------------------------------------------
 
 clear
-cd "/Users/jcbarnes/Box Sync/manuscripts/_underReview/power_--_jq/data"
+cd "ENTER YOUR FILE PATH HERE"
 import excel "_table.xlsx", sheet("Sheet1") firstrow case(lower)
 describe 
 tab1 micro
